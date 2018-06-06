@@ -1,0 +1,61 @@
+
+{
+    "locations": [
+        {
+            "title": "Twenty Seven Steps",
+            "latitude": "-43.529373",
+            "longitude": "172.638825",
+            "zIndex": 1,
+            "html": "<a href='http://www.twentysevensteps.co.nz/' target='_blank'>Twenty Seven Steps</a><br/><br/><img src='IMG/RESTAURANTS/twentysevensteps.jpg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/restaurantsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        },
+        {
+            "title": "Pedro's House of Lamb",
+            "latitude": "-43.519767",
+            "longitude": "172.626753",
+            "zIndex": 2,
+            "html": "<a href='http://www.pedros.co.nz' target='_blank'>Pedro's House of Lamb</a><br/><br/><img src='IMG/RESTAURANTS/pedroshouseoflamb.jpg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/restaurantsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        }, {
+            "title": "O.G.B",
+            "latitude": "-43.531036",
+            "longitude": "172.638080",
+            "zIndex": 3,
+            "html": "<a href='http://www.ogb.co.nz/' target='_blank'>O.G.B Bar and Cafe</a><br/><br/><img src='IMG/RESTAURANTS/ogb.jpg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/restaurantsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        }
+    ]
+}
+
+
+
+
+
+

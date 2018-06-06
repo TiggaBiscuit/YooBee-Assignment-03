@@ -1,0 +1,60 @@
+{
+    "locations": [
+        {
+            "title": "International Antarctic Centre",
+            "latitude": "-43.488267",
+            "longitude": "172.547030",
+            "zIndex": 1,
+            "html": "<a href='http://www.iceberg.co.nz/' target='_blank'>International Antarctic Centre</a><br/><br/><img src='IMG/SEE/internationalantarcticcentre.JPG' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/scenicSpotsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        },
+        {
+            "title": "Willowbank Wildlife Reserve",
+            "latitude": "-43.467131",
+            "longitude": "172.463121",
+            "zIndex": 2,
+            "html": "<a href='http://www.oranawildlifepark.co.nz/' target='_blank'>Orana Wildlife Park</a><br/><br/><img src='IMG/SEE/oranawildlifepark.JPG' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/scenicSpotsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        },{
+            "title": "Christchurch Gondola",
+            "latitude": "-43.584797",
+            "longitude": "172.707671",
+            "zIndex": 3,
+            "html": "<a href='https://www.christchurchattractions.nz/christchurch_gondola/' target='_blank'>Christchurch Gondola</a><br/><br/><img src='IMG/SEE/christchurchgondola.JPG' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/scenicSpotsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        }
+    ]
+}
+
+
+
+
+
+

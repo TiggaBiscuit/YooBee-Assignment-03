@@ -1,0 +1,60 @@
+{
+    "locations": [
+        {
+            "title": "The George",
+            "latitude": "-43.525825",
+            "longitude": "172.628716",
+            "zIndex": 1,
+            "html": "<a href='http://www.thegeorge.com' target='_blank'>The George</a><br/><br/><img src='IMG/SLEEP/thegeorge.jpg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/motelsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        },
+        {
+            "title": "Rydges Latimer Christchurch",
+            "latitude": "-43.530417",
+            "longitude": "172.643590",
+            "zIndex": 2,
+            "html": "<a href='https://www.rydges.com/accommodation/new-zealand/latimer-christchurch/' target='_blank'>Rydges Latimer Christchurch</a><br/><br/><img src='IMG/SLEEP/rydgeslatimerchristchurch.jpeg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/motelsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        }, {
+            "title": "Heritage Christchurch",
+            "latitude": "-43.531069",
+            "longitude": "172.638075",
+            "zIndex": 3,
+            "html": "<a href='https://www.heritagehotels.co.nz/hotels/heritage-christchurch' target='_blank'>Heritage Christchurch</a><br/><br/><img src='IMG/SLEEP/heritagechristchurch.jpg' width='197' /><br/>",
+            "image": {
+                "url": "IMG/THEMES/motelsFlag.png",
+                "size": [20, 32],
+                "origin": [0, 0],
+                "anchor": [0, 32]
+            },
+            "shape": {
+                "coords": [1, 1, 1, 20, 18, 20, 18, 1],
+                "type": "poly"
+            }
+        }
+    ]
+}
+
+
+
+
+
+
